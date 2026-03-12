@@ -9,4 +9,3 @@
 - GIT 설치
 - Python 설치
 - Jupyter Notebook 설치
--나는 바보다
